@@ -1,6 +1,6 @@
 # Cenipa_classification
 
-![Imagem de Aviao](https://github.com/jairobernardesjunior/Cenipa_clustering/blob/main/acidente_classification.jpeg)
+![Imagem de Aviao](https://github.com/jairobernardesjunior/Cenipa_classification/blob/main/acidente_classification.jpeg)
  
 ## Treina modelo de classificação para saber qual o período do dia seria mais provável de acontecer o acidente.
 
